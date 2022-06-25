@@ -1,1 +1,1 @@
-# FutureReadyproject
+The fitness and sports Shop Management System will allow more than one shop owner, to sell various products less than one roof. “Details of products in the stock with product code, brand name, size, quantity” Shoe Shop Management System is inventory software that designed specially to meet the requirements of small and medium sized enterprises, such as shoes and fitness.
